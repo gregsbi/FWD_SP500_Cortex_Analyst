@@ -234,4 +234,3 @@ To launch the final Streamlit application:
 - Check the comments in the code for specific functionality explanations
 - Snowflake documentation: [Snowflake Documentation](https://docs.snowflake.com/)
 - Streamlit documentation: [Streamlit Documentation](https://docs.streamlit.io/)
-
